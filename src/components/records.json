@@ -1,0 +1,192 @@
+[
+{
+    "name":"Item 1",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 2",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 3",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 4",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 5",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},{
+    "name":"Item 6",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31" ,
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 7",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 8",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 9",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 10",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 11",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 12",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 13",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},{
+    "name":"Item 14",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 15",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31" ,
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 16",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 17",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 18",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 19",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 20",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31","icons":"images/img4.png"
+},
+{
+    "name":"Item 21",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},{
+    "name":"Item 22",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png"
+},
+{
+    "name":"Item 23",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+},
+{
+    "name":"Item 24",
+    "com": "Global X Change",
+    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium sapien vitae ante volutpat tempus. Cras vehicula, turpis tempus blandit tincidunt, urna lectus luctus eros, ac efficitur sem leo eget ex. Integer eget turpis in diam dignissim congue. Fusce interdum in tortor ut vestibulum. Mauris vel malesuada nisi. In malesuada placerat dolor in hendrerit. Sed cursus, nisi sed condimentum lacinia, urna odio tristique turpis, sit amet elementum metus augue in lorem. Suspendisse facilisis ipsum nunc, ut malesuada enim luctus vel. Etiam id est sed velit pellentesque malesuada vitae eu ligula.",
+    "rating":5,
+    "price": "5.31",
+    "icons":"images/img4.png" 
+}
+
+
+]

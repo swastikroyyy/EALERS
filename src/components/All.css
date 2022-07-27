@@ -1,0 +1,10 @@
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: black !important;
+}
+
+.input-data input{
+    height: 100%;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+}
